@@ -1,0 +1,20 @@
+Access Control
+https://docs.microsoft.com/en-us/learn/modules/create-users-and-groups-in-azure-active-directory/3-exercise-add-delete-users-azure-ad
+https://docs.microsoft.com/en-us/learn/modules/allow-users-reset-their-password/5-exercise-customize-directory-branding
+
+VM
+https://docs.microsoft.com/en-us/learn/modules/manage-virtual-machines-with-azure-cli/3-testing-the-vm
+
+Storage
+https://docs.microsoft.com/en-us/learn/modules/create-azure-storage-account/5-exercise-create-a-storage-account?ns-enrollment-type=LearningPath&ns-enrollment-id=learn.az-104-manage-storage
+https://docs.microsoft.com/en-us/learn/modules/control-access-to-azure-storage-with-sas/4-exercise-use-shared-access-signatures
+https://docs.microsoft.com/en-us/learn/modules/upload-download-and-manage-data-with-azure-storage-explorer/5-exercise-connect-cosmosdb-data-lake?ns-enrollment-type=LearningPath&ns-enrollment-id=learn.az-104-manage-storage
+Network
+https://docs.microsoft.com/en-us/learn/modules/integrate-vnets-with-vnet-peering/
+https://docs.microsoft.com/en-us/learn/modules/design-ip-addressing-for-azure/5-exercise-implement-vnets?ns-enrollment-type=LearningPath&ns-enrollment-id=learn.az-104-manage-virtual-networks
+
+General Labs
+https://aka.ms/dp900lab01
+https://aka.ms/dp900lab02
+https://aka.ms/dp900lab03
+https://aka.ms/dp900lab04
